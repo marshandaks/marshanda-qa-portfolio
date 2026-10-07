@@ -1,0 +1,14 @@
+{
+  "name": "delpresence-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome",
+    "cy:run:report": "cypress run --browser chrome --reporter mochawesome --reporter-options reportDir=cypress/reports,overwrite=false,html=true,json=true"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0",
+    "mochawesome": "^7.1.3"
+  }
+}
