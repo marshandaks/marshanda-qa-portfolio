@@ -3,8 +3,7 @@
 QA Engineer focused on **test documentation, manual functional testing, UI automation (Cypress) and performance testing (JMeter)**.
 This repository contains test documentation from three projects: test plans, test cases, execution records, bug reports and summaries.
 
-📫 [LinkedIn](https://linkedin.com/in/your-profile) · ✉️ your.email@example.com · 🐙 [GitHub](https://github.com/your-username)
-
+📫 [[LinkedIn](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/marshandaks)  · ✉️ marshanda@gmail.com · 🐙 [GitHub https://github.com/marshandaks]
 ---
 
 ## 📊 At a Glance
