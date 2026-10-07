@@ -160,6 +160,3 @@ Notable findings:
 
 ---
 
-## 📬 Contact
-
-Open to QA Engineer / QA Tester opportunities. Feel free to reach out via LinkedIn or email.
