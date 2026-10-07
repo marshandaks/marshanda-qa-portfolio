@@ -1,9 +1,10 @@
-# QA Portfolio – Marshanda Simangunsong
+## QA Portfolio: Marshanda Simangunsong
 
-QA Engineer focused on **test documentation, manual functional testing, UI automation (Cypress) and performance testing (JMeter)**.
-This repository contains test documentation from three projects: test plans, test cases, execution records, bug reports and summaries.
+QA Engineer focused on **test documentation, manual functional testing, UI automation (Cypress) and API & performance testing (JMeter)**.
+This repository contains test documentation from three projects: test scenarios, test cases, execution records, bug reports and summaries.
 
-📫 [[LinkedIn](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/marshandaks)  · ✉️ marshanda@gmail.com · 🐙 [GitHub https://github.com/marshandaks]
+[LinkedIn](https://www.linkedin.com/in/marshandaks) · [Email](mailto:marshanda@gmail.com) · [GitHub](https://github.com/marshandaks)
+
 ---
 
 ## 📊 At a Glance
